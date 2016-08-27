@@ -2,6 +2,10 @@
 
 Rede Doar consiste em um projeto social para criação de um aplicativo Open Source que possibilita os usuários contribuírem com a sociedade compartilhando por meio de doação ou buscando doações de roupas, sobras de alimentos ou móveis. 
 
+## Equipe
+
+Os membros da equipe podem ser vistos em rededoar@googlegroups.com .
+
 ## Requisitos
 
 O projeto é estruturado utilizando Android Studio, versão 2.0+ e funciona sobre as plataformas Android com SDK 15+.
